@@ -18,14 +18,10 @@ This project involves the following tasks:
 In order to run this project, you will need to have the following installed on your computer:
 Java Development Kit (JDK) version [insert version number here]
 
-# Build Instructions
-Clone the repository to your local machine using git clone [insert repository URL here]
+# Build and Run Instructions
+Clone the repository to your local machine using git clone https://github.com/St0k2022/OOP_Lab_1.git
 Navigate to the root directory of the project in your terminal
-Run the following command to build the project: ./gradlew build
-
-# Run Instructions
-Once the build is complete, navigate to the build/libs directory
-Run the following command to run the project: java -jar [insert jar file name here]
+Run the following command to build the project: buildAndRun.bat
 
 # Support
 If you encounter any issues while running the project, please reach out to us at stocman2009@gmail.com.
