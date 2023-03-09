@@ -19,9 +19,14 @@ In order to run this project, you will need to have the following installed on y
 Java Development Kit (JDK) version [insert version number here]
 
 # Build and Run Instructions
-Clone the repository to your local machine using git clone https://github.com/St0k2022/OOP_Lab_1.git
+Clone the repository to your local machine using 
+```
+git clone https://github.com/St0k2022/OOP_Lab_1.git
+```
 Navigate to the root directory of the project in your terminal
-Run the following command to build the project: buildAndRun.bat
-
+Run the following command to build and run the project: 
+```
+buildAndRun.bat
+```
 # Support
 If you encounter any issues while running the project, please reach out to us at stocman2009@gmail.com.
