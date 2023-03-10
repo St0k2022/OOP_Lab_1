@@ -39,3 +39,5 @@ bin/
 test/resources/projects/**/.vscode
 test/resources/projects/maven/salut/testGradle
 test-temp
+/Laboratory_Work_1/.vscode
+/Laboratory_Work_1/lib
