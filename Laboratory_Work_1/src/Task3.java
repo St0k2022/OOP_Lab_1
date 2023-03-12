@@ -54,8 +54,8 @@ public class Task3 {
         }
 
         System.out.println("The age of ten users is: " + age);
-        System.out.println("The age of weight users is: " + weight);
-        System.out.println("The age of height users is: " + height);
+        System.out.println("The weight of ten users is: " + weight);
+        System.out.println("The height of ten users is: " + height);
     }
 
 }
