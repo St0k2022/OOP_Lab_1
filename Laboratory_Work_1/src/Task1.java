@@ -19,6 +19,6 @@ public class Task1 {
         System.out.println("The sum is " + sum);
         System.out.println("The difference is " + difference);
         System.out.println("The product is " + product);
-        System.out.println("The quotient is " + division);
+        System.out.println("The division is " + division);
     }
 }
