@@ -4,6 +4,7 @@ public class chose {
     }
 
     public static void run(String task) {
+        try{
         switch (task) {
             case "Task1":
                 OperationOnNums obj = new OperationOnNums();
@@ -28,6 +29,10 @@ public class chose {
                 a.Reverse();
                 break;
         }
+    }
+    catch(IllegalArgumentException e){
+        System.out.println("Error: " + e.getMessage());
+    }
     }
 
 }
