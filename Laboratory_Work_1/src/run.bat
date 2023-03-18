@@ -1,3 +1,3 @@
 @echo off
-set /p class_name="Enter the name of the Java class: "
-java %class_name%.java
+set /p task_name="Enter the task: "
+java launch.java %task_name%
