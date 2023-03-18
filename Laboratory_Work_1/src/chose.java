@@ -4,7 +4,6 @@ public class chose {
     }
 
     public static void run(String task) {
-        try{
         switch (task) {
             case "Task1":
                 OperationOnNums obj = new OperationOnNums();
@@ -28,11 +27,11 @@ public class chose {
                 ReverseNumber a = new ReverseNumber();
                 a.Reverse();
                 break;
+            default:
+                System.out.println("The current task doesnt exist!");
         }
-    }
-    catch(IllegalArgumentException e){
-        System.out.println("Error: " + e.getMessage());
-    }
+    
+
     }
 
 }
